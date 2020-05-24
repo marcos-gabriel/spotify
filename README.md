@@ -11,6 +11,7 @@ Nessa primeira versão só foi feita a primeira página (posteriormente irei atu
 
 #### Entre em contato comigo:
 [LinkedIn](https://www.linkedin.com/in/marcos-gabriel-0b4586165/ "LinkedIn")
+
 E-mail: marcoseca772@gmail.com
 
 #### Site oficial do Spotify
