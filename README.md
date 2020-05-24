@@ -7,7 +7,7 @@ Nessa primeira versão só foi feita a primeira página (posteriormente irei atu
 ![Spotify responsivo](https://i.imgur.com/fakoTuT.png "Spotify responsivo")
 
 #### Acesse o projeto
-[Spotify Clone](https://marcos-gabriel.github.io/spotify/ "Spotify Clone")
+[Spotify Clone](https://marcos-gabriel.github.io/spotify-bootstrap/ "Spotify Clone")
 
 #### Entre em contato comigo:
 [LinkedIn](https://www.linkedin.com/in/marcos-gabriel-0b4586165/ "LinkedIn")
