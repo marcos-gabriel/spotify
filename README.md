@@ -1,6 +1,6 @@
 # Clone Spotify
 Projeto simples feito com o objetivo de praticar meus conhecimentos em **HTML**, **CSS** e **Bootstrap**.
-![Spotify](https://i.imgur.com/ghLXx6x.png "Spotify")
+![Spotify](https://i.imgur.com/3s50bqG.png "Spotify")
 
 Nessa primeira versão só foi feita a primeira página (posteriormente irei atualizar o restante das páginas). O site possui responsividade.
 
